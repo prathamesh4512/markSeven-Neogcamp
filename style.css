@@ -113,10 +113,6 @@ footer p {
   color: black;
 }
 
-.footer-copyright {
-  margin: 0.5rem 0;
-}
-
 .no-list-style {
   list-style: none;
   margin: 0;
@@ -130,7 +126,7 @@ footer p {
 }
 
 .link {
-  color: var(--white);
+  color: white;
   text-decoration: none;
   padding: 0.5rem 1rem;
 }
